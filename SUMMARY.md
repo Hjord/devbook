@@ -20,10 +20,6 @@
 * [Angular](js\angular\README.md)
 
 
-## Git
-* [GitHub](git\github.md)
-* [GitBook](git\book.md)
-
 ## Babun
 
 ## Android
