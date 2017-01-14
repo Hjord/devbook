@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 
-
-###### 
 ## C&#35; .NET
 * [SMTP](docs\csharp\smtp.md)
 * [FTP](docs\csharp\ftp.md)
