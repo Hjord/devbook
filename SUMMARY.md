@@ -23,7 +23,7 @@
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
     
-## Test2
+# Test2
 
 * [Part I](part1/README.md)
     * [Writing is nice](part1/writing.md)
