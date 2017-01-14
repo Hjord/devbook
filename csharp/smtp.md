@@ -2,11 +2,9 @@
 
 Google SMTP settings:
 
-Host: `smtp.google.com`
-
-Port: `587`
-
-Remember `EnableSsl = true`
+- Host: `smtp.google.com`
+- Port: `587`
+- Remember `EnableSsl = true`
 
 ### Example
 ```csharp
