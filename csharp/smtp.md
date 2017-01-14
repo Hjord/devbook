@@ -1,7 +1,14 @@
 ## Send mail with SMTP 
 
-```csharp
+Google SMTP settings:
 
+Host: `smtp.google.com`
+
+Port: `587`
+
+Remember `EnableSsl = true`
+
+```csharp
 MailAdress sender = new MailAdress(mailFrom, mailFromName);
 MailAdress receiver = new MailAdress(mailTo);
 
