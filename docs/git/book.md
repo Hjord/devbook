@@ -6,7 +6,7 @@ Like HTML comments, if output is HTML.
 a comment
 -->
 ```
-### Markdown
+#### Markdown
 
 ```
 [comment]: <> (This is a comment, it will not be included)
