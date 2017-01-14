@@ -28,3 +28,10 @@ SmtpClient client = new SmtpClient
 client.Send(mail);
 ```
 
+- `smtpUsername` your gmail.
+- `smtpPassword` your gmail password
+
+Google App Password can be used instead of gmail password.
+
+https://myaccount.google.com/apppasswords
+
