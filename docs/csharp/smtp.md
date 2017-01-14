@@ -1,3 +1,5 @@
+
+
 ## Send mail with SMTP 
 
 Google SMTP settings:
@@ -31,7 +33,6 @@ client.Send(mail);
 - `smtpUsername` your gmail.
 - `smtpPassword` your gmail password
 
-Google App Password can be used instead of gmail password.
+[Google App Password](https://myaccount.google.com/apppasswords) can be used instead of gmail password.
 
-https://myaccount.google.com/apppasswords
 
