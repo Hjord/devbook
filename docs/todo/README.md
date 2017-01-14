@@ -1,4 +1,4 @@
-### Solar System Exploration, 1950s – 1960s
+### The list - you know.
 
 - [ ] Mercury
 - [x] Venus
