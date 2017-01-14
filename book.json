@@ -1,5 +1,5 @@
 {
     "plugins": [
-        "feathers-collapsible-menu"
+        "expandable-chapters"
     ]
 }
