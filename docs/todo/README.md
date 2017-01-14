@@ -1,4 +1,23 @@
-### The list - you know.
+### The list. You know... You properly dont..
 
-- [ ] WinForm
+- [ ] WinForm C#
+- [ ] WinForm F#
 - [ ] ASP.NET MVC
+- [ ] Angular
+- [ ] React
+- [ ] Ruby on Rails
+- [ ] Java
+- [ ] C
+- [ ] C++
+- [ ] Python
+- [ ] PHP
+- [ ] Dart
+- [ ] Xamarin
+- [ ] Go (golang)
+- [ ] Objective-C
+- [ ] Perl
+- [ ] Swift
+- [ ] Shell
+- [ ] R
+- [ ] Delphi
+- [ ] Groovy
