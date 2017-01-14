@@ -8,6 +8,7 @@ Port: `587`
 
 Remember `EnableSsl = true`
 
+### Example
 ```csharp
 MailAdress sender = new MailAdress(mailFrom, mailFromName);
 MailAdress receiver = new MailAdress(mailTo);
