@@ -11,7 +11,7 @@
     * [Timer](csharp\winform\timer.md)
 * [Service](csharp\service\README.md)    
 
-
+<!---
 ## Xamarin    
 * [Forms](xamarin\forms.md)
 * [PCL](xamarin\pcl.md)
@@ -34,6 +34,7 @@
 ## General OO Programming
 * [Design Patterns](prog\pattern\README.md)
     * [Singleton](prog\pattern\singleton.md)
+-->
 
 
     
