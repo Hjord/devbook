@@ -24,3 +24,5 @@ or
 [//]: # (This may be the most platform independent comment)
 ```
 
+Ref:
+http://stackoverflow.com/questions/4823468/comments-in-markdown
