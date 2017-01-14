@@ -1,5 +1,5 @@
 {
     "plugins": [
-        "collapsible-menu"
+        "feathers-collapsible-menu"
     ]
 }
