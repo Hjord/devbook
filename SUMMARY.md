@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [C\#](chapter1.md)
 * [WinForms](winforms.md)
 
