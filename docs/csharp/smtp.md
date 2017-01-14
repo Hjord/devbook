@@ -1,5 +1,3 @@
-
-
 ## Send mail with SMTP 
 
 Google SMTP settings:
