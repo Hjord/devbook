@@ -24,4 +24,5 @@ or
 [//]: # (This may be the most platform independent comment)
 ```
 
-[](http://stackoverflow.com/questions/4823468/comments-in-markdown "Stack Overflow: Comments In Markdown")
+Ref:
+[Stack Overflow: Comments in markdown](http://stackoverflow.com/questions/4823468/comments-in-markdown)
