@@ -31,7 +31,7 @@
 * [Activity](android\activity.md)
 * [Layout](android\layout.md)
 
-## General Programming
+## General OO Programming
 * [Design Patterns](prog\pattern\readme.md)
     * [Singleton](prog\pattern\singleton.md)
 
