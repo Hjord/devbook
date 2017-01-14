@@ -23,6 +23,10 @@
 ## Babun
 
 ## Android
+* [Intent](android\intent.md)
+* [Activity](android\activity.md)
+* [Layout](android\layout.md)
+* [Activity](android\activity.md)
 
 
     
