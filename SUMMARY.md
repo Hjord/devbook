@@ -13,10 +13,15 @@
 
 
 ## Xamarin    
+* [Forms](xamarin\forms.md)
+* [PCL](xamarin\pcl.md)
     
 ## JavaScript
+* [Angular](js\angular\readme.md)
+
 
 ## Git
+* [GitHub](git\github.md)
 * [GitBook](git\book.md)
 
 ## Babun
@@ -25,7 +30,10 @@
 * [Intent](android\intent.md)
 * [Activity](android\activity.md)
 * [Layout](android\layout.md)
-* [Activity](android\activity.md)
+
+## General Programming
+* [Design Patterns](prog\pattern\readme.md)
+    * [Singleton](prog\pattern\singleton.md)
 
 
     
