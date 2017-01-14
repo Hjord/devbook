@@ -1,7 +1,11 @@
 
 
 ```csharp
-MailMessage mail = new MailMessage(new MailAddress(mailFrom, mailFromName), new MailAddress(mailTo))
+
+MailAdress sender = new MailAdress(mailFrom, mailFromName);
+MailAdress receiver = new MailAdress(mailTo);
+
+MailMessage mail = new MailMessage(sender, receiver)
                 {
                     Subject = "Subject",
                     Body = "Body text"
