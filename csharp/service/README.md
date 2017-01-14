@@ -1,6 +1,6 @@
 ### Manual installation
 
-1. Open __Developer Command Peompt__ 
+1. Open __Developer Command Prompt__ 
 2. Navigate to project with `cd`
 3. `installutil.exe <project>.exe`
 
