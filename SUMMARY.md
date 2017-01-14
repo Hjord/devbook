@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## C Sharp .NET
+## C&#35; .NET
 * [SMTP](docs\csharp\smtp.md)
 * [FTP](docs\csharp\ftp.md)
 * [Ping](docs\csharp\ping.md)
