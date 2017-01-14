@@ -3,7 +3,12 @@
 * [Introduction](README.md)
 
 ## C Sharp
-* [SMTP Mail](csharp\smtp.md)
+* [SMTP](csharp\smtp.md)
+* [FTP](csharp\ftp.md)
+* [Write to file](csharp\writetofile.md)
+* [Ping](csharp\ping.md)
+* [WinForms](csharp\winform\readme.md)
+    *[WebBrowser](csharp\winform\webbrowser.md)
     
 
 
