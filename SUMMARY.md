@@ -3,39 +3,39 @@
 * [Introduction](README.md)
 
 ## C Sharp .NET
-* [SMTP](csharp\smtp.md)
-* [FTP](csharp\ftp.md)
-* [Ping](csharp\ping.md)
-* [WinForms](csharp\winform\README.md)
-    * [WebBrowser](csharp\winform\webbrowser.md)
-    * [Timer](csharp\winform\timer.md)
-* [Service](csharp\service\README.md)    
+* [SMTP](docs\csharp\smtp.md)
+* [FTP](docs\csharp\ftp.md)
+* [Ping](docs\csharp\ping.md)
+* [WinForms](docs\csharp\winform\README.md)
+    * [WebBrowser](docs\csharp\winform\webbrowser.md)
+    * [Timer](docs\csharp\winform\timer.md)
+* [Service](docs\csharp\service\README.md)    
 
 
 ## Git
-* [GitHub](git\github.md)
-* [GitBook](git\book.md)
+* [GitHub](docs\git\github.md)
+* [GitBook](docs\git\book.md)
 
 
 <!---
 ## Xamarin    
-* [Forms](xamarin\forms.md)
-* [PCL](xamarin\pcl.md)
+* [Forms](docs\xamarin\forms.md)
+* [PCL](docs\xamarin\pcl.md)
     
 ## JavaScript
-* [Angular](js\angular\README.md)
+* [Angular](docs\js\angular\README.md)
 
 
 ## Babun
 
 ## Android
-* [Intent](android\intent.md)
-* [Activity](android\activity.md)
-* [Layout](android\layout.md)
+* [Intent](docs\android\intent.md)
+* [Activity](docs\android\activity.md)
+* [Layout](docs\android\layout.md)
 
 ## General OO Programming
-* [Design Patterns](prog\pattern\README.md)
-    * [Singleton](prog\pattern\singleton.md)
+* [Design Patterns](docs\prog\pattern\README.md)
+    * [Singleton](docs\prog\pattern\singleton.md)
 -->
 
 
