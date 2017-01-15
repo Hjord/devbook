@@ -14,7 +14,8 @@ using (WebClient client = new WebClient())
 	client.Credentials = new NetworkCredential(ftpUsername, ftpPassword);
         client.DownloadFile(ftpLocation, localLocation);
 }
-´``
+
+```
 
 ## Upload to FTP
 

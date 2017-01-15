@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-### .NET
+----
 
 ## C&#35; .NET
 * [SMTP](docs\csharp\smtp.md)
@@ -15,7 +15,7 @@
 
 
 ## Git
-* [GitHub](docs\git\github.md)
+* [GitHub](docs\git\git.md)
 * [GitBook](docs\git\book.md)
 
 
@@ -42,7 +42,7 @@
 
 
     
-### Todo
+----
 
 * [Todo](docs/todo/README.md)
 
